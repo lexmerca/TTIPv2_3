@@ -23,8 +23,6 @@ TTIPv2 Section 3
 
 ---
 
-## 3. Exploring the Multilateral Interface: Public International Law
-
 #### 3.1 Existing Sources of World Trade Organization ('WTO') Law
 
 ###### 3.1.1 General Agreement on Tariffs and Trade (‘GATT’)
