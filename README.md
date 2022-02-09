@@ -1,7 +1,4 @@
-# TTIPv2_3
-TTIPv2 Section 3
-
-## 3. Exploring the Multilateral Interface: Public International Law
+# 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_ToC)
 
 #### 3.1 Existing Sources of World Trade Organization ('WTO') Law
 
