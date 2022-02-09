@@ -21,22 +21,7 @@ TTIPv2 Section 3
 
 ###### 3.1.8 Trade Facilitation Agreement (‘TFA’)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## 3. Exploring the Multilateral Interface: Public International Law
 
