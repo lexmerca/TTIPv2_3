@@ -1,1 +1,1 @@
-### 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_ToC)
+### 3. [THE MULTILATERAL INTERFACE: PUBLIC INTERNATIONAL LAW](https://github.com/lexmerca/TTIPv2_ToC)
