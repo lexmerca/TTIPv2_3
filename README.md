@@ -6,4 +6,4 @@
 
 #### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings](https://github.com/lexmerca/TTIPv2_ToC#c-case-law-wto-panel-decisions-and-appellate-body-rulings)
 
-#### D. [World Customs Organization (WCO) Legal Instruments]()
+#### D. [World Customs Organization (WCO) Legal Instruments](https://github.com/lexmerca/TTIPv2_ToC#d-world-customs-organization-wco-legal-instruments)
