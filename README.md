@@ -2,7 +2,7 @@
 
 #### A. [Existing World Trade Organization (WTO) Agreements and Declarations]()
 
-#### B. [Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals]()
+#### B. [Ongoing WTO Joint Initiatives, Negotiations, and Proposals]()
 
 #### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings]()
 
