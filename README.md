@@ -4,6 +4,6 @@
 
 #### B. [Ongoing WTO Joint Initiatives, Negotiations, and Proposals](https://github.com/lexmerca/TTIPv2_ToC#b-ongoing-wto-joint-initiatives-negotiations-and-proposals)
 
-#### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings]()
+#### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings](https://github.com/lexmerca/TTIPv2_ToC#c-case-law-wto-panel-decisions-and-appellate-body-rulings)
 
 #### D. [World Customs Organization (WCO) Legal Instruments]()
